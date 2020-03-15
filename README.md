@@ -1,6 +1,6 @@
 # AMATH-482-YUXIN-JIANG
 
-This repository includes Yuxin Jiang's 5 projects in Amath 482 at University of Washington. 
+This repository includes Yuxin(Gloria) Jiang's 5 projects in Amath 482 at University of Washington. 
 There are a report and a corresponding MATLAB code file in each folder. 
 
 The topics of the projects are listed as following:
